@@ -1,11 +1,12 @@
 ---
-title: Samuel Scheiderich
-date: 2016-09-22 22:52:31
+title: Sam Scheiderich (she/her)
+date: 2021-10-26 13:22:00
 ---
 ### Contact me
-- Email: [samuel.scheiderich@gmail.com](mailto:samuel.scheiderich@gmail.com)
-- LinkedIn: [Samuel Scheiderich](https://www.linkedin.com/in/samuel-scheiderich-a9a6b8122)
+- Email: [sam@samsch.org](mailto:sam@samsch.org)
+- LinkedIn: [Sam Scheiderich](https://www.linkedin.com/in/sam-scheiderich-a9a6b8122/)
 - Discord: [Server Invitation](https://discord.gg/DtfkPhU)
+- Matrix: @samsch.org:matrix.org
 
 ## Development
 I build web apps, specializing in user interfaces (UI and UX) and data management. In particular, I know how to "dumb-down" an interface so that less tech-savvy users can feel comfortable.
@@ -21,13 +22,13 @@ Beside the common web languages (HTML, CSS, Javascript), these are tools I regul
 - Sass (SCSS)
 - ESLint
 - VSCode
-- NodeJS
-- Redux
+- Node.js
+- Express
 - Lodash
-- Symfony/PHP
-- SQL (MySQL/Postgres)
+- Laravel/PHP
+- SQL (PostgreSQL/MySQL)
 - Many others...
 
 You can check out my open source work on [my Github profile](https://github.com/samsch).
 
-Send me an email, message me on [Discord](https://discord.gg/DtfkPhU), or you can find me hanging in #reactjs, ##javascript, and #Node.js on Freenode (IRC). I can tell you about projects I've worked on, technical solutions, or we can just connect and see where it goes.
+Send me an email, message me on [Discord](https://discord.gg/DtfkPhU) or Matrix (@samsch.org:matrix.org), or you can find me hanging in #reactjs, #javascript, and #Node.js on Libera (IRC). I can tell you about projects I've worked on, technical solutions, or we can just connect and see where it goes.
