@@ -1,10 +1,10 @@
 ---
-title: Sam Scheiderich (she/her)
+title: Lumina Scheiderich (she/her)
 date: 2021-10-26 13:22:00
 ---
 ### Contact me
-- Email: [sam@samsch.org](mailto:sam@samsch.org)
-- LinkedIn: [Sam Scheiderich](https://www.linkedin.com/in/sam-scheiderich-a9a6b8122/)
+- Email: [lumina@samsch.org](mailto:lumina@samsch.org)
+- LinkedIn: [Lumina Scheiderich](https://www.linkedin.com/in/lumina-scheiderich-a9a6b8122/)
 - Discord: [Server Invitation](https://discord.gg/DtfkPhU)
 - Matrix: @samsch.org:matrix.org
 
